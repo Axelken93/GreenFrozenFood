@@ -1,0 +1,2 @@
+cargarProductosSeleccionados();
+actualizarBotonCarrito();
